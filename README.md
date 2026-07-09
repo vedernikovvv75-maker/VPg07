@@ -146,6 +146,34 @@ python scripts/clear_namespace.py --force
 
 
 
+### Скриншоты (Telegram + логи)
+
+
+
+**Загрузка DOCX, индексация и summary**
+
+![Telegram: /start, загрузка DOCX, summary](screenshots/Screenshot_20260709_082409_Telegram.jpg)
+
+
+
+**Вопросы по документу (часть 1)**
+
+![Telegram: Q&A — Кочкарская система](screenshots/Screenshot_20260709_082427_Telegram.jpg)
+
+
+
+**Вопросы по документу (часть 2)**
+
+![Telegram: Q&A — Подвинцевы, бегунная фабрика](screenshots/Screenshot_20260709_082447_Telegram.jpg)
+
+
+
+**Логи сессии: IngestionPipeline + GenerationPipeline**
+
+![Логи бота: ingestion и Q&A](screenshots/bot-session-2026-07-09.png)
+
+
+
 ## Итерации
 
 
